@@ -12,4 +12,4 @@ Does your ZIP code determine your access to fresh food? I compared "Premium" vs.
 * **Metrics:** Premium-to-Budget Ratio (PBR).
 
 ### Visualization
-![Grocery Gap Chart](clt_grocery_gap.png)
+![Grocery Gap Chart](Grocery Accessibility Gap_ Charlotte, NC.png)
